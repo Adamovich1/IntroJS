@@ -1,0 +1,11 @@
+let nameOfTheGame;
+let gameDescription;
+let gameVersion;
+let theNameOfTheMainCharacterOfTheGame;
+let nameOfTheGameDeveloper;
+let theProgrammingLanguageInWhichTheGameIsWritten;
+let versionOfTheProgrammingLanguageInWhichTheGameIsWritten;
+let theNameOfTheMapOnWhichTheGameTakesPlace;
+let gameDeveloperWebsite;
+let InterfaceLanguage;
+
